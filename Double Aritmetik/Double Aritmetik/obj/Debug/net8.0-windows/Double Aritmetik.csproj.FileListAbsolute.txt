@@ -1,0 +1,16 @@
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Double Aritmetik\Double Aritmetik\bin\Debug\net8.0-windows\Double Aritmetik.exe
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Double Aritmetik\Double Aritmetik\bin\Debug\net8.0-windows\Double Aritmetik.deps.json
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Double Aritmetik\Double Aritmetik\bin\Debug\net8.0-windows\Double Aritmetik.runtimeconfig.json
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Double Aritmetik\Double Aritmetik\bin\Debug\net8.0-windows\Double Aritmetik.dll
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Double Aritmetik\Double Aritmetik\bin\Debug\net8.0-windows\Double Aritmetik.pdb
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Double Aritmetik\Double Aritmetik\obj\Debug\net8.0-windows\Double_Aritmetik.Form1.resources
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Double Aritmetik\Double Aritmetik\obj\Debug\net8.0-windows\Double Aritmetik.csproj.GenerateResource.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Double Aritmetik\Double Aritmetik\obj\Debug\net8.0-windows\Double Aritmetik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Double Aritmetik\Double Aritmetik\obj\Debug\net8.0-windows\Double Aritmetik.AssemblyInfoInputs.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Double Aritmetik\Double Aritmetik\obj\Debug\net8.0-windows\Double Aritmetik.AssemblyInfo.cs
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Double Aritmetik\Double Aritmetik\obj\Debug\net8.0-windows\Double Aritmetik.csproj.CoreCompileInputs.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Double Aritmetik\Double Aritmetik\obj\Debug\net8.0-windows\Double Aritmetik.dll
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Double Aritmetik\Double Aritmetik\obj\Debug\net8.0-windows\refint\Double Aritmetik.dll
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Double Aritmetik\Double Aritmetik\obj\Debug\net8.0-windows\Double Aritmetik.pdb
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Double Aritmetik\Double Aritmetik\obj\Debug\net8.0-windows\Double Aritmetik.genruntimeconfig.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Double Aritmetik\Double Aritmetik\obj\Debug\net8.0-windows\ref\Double Aritmetik.dll

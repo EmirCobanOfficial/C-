@@ -1,0 +1,15 @@
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\entity_framework\entity_framework\bin\Debug\entity_framework.exe.config
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\entity_framework\entity_framework\bin\Debug\entity_framework.exe
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\entity_framework\entity_framework\bin\Debug\entity_framework.pdb
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\entity_framework\entity_framework\bin\Debug\EntityFramework.dll
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\entity_framework\entity_framework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\entity_framework\entity_framework\bin\Debug\EntityFramework.xml
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\entity_framework\entity_framework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\entity_framework\entity_framework\obj\Debug\entity_framework.csproj.AssemblyReference.cache
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\entity_framework\entity_framework\obj\Debug\entity_framework.Form1.resources
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\entity_framework\entity_framework\obj\Debug\entity_framework.Properties.Resources.resources
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\entity_framework\entity_framework\obj\Debug\entity_framework.csproj.GenerateResource.cache
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\entity_framework\entity_framework\obj\Debug\entity_framework.csproj.CoreCompileInputs.cache
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\entity_framework\entity_framework\obj\Debug\entity_f.B9E6386B.Up2Date
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\entity_framework\entity_framework\obj\Debug\entity_framework.exe
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\entity_framework\entity_framework\obj\Debug\entity_framework.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35017.193
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Double Aritmetik", "Double Aritmetik\Double Aritmetik.csproj", "{FBCED0F5-0B13-4029-A558-DAA9E1D02931}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBCED0F5-0B13-4029-A558-DAA9E1D02931}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBCED0F5-0B13-4029-A558-DAA9E1D02931}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBCED0F5-0B13-4029-A558-DAA9E1D02931}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBCED0F5-0B13-4029-A558-DAA9E1D02931}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FFAA69BE-85C6-403C-B35D-7A8381C7D633}
+	EndGlobalSection
+EndGlobal
