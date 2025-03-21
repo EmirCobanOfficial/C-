@@ -1,0 +1,10 @@
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Diziler-3\Diziler-3\bin\Debug\Diziler-3.exe.config
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Diziler-3\Diziler-3\bin\Debug\Diziler-3.exe
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Diziler-3\Diziler-3\bin\Debug\Diziler-3.pdb
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Diziler-3\Diziler-3\obj\Debug\Diziler-3.csproj.AssemblyReference.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Diziler-3\Diziler-3\obj\Debug\Diziler_3.Form1.resources
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Diziler-3\Diziler-3\obj\Debug\Diziler_3.Properties.Resources.resources
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Diziler-3\Diziler-3\obj\Debug\Diziler-3.csproj.GenerateResource.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Diziler-3\Diziler-3\obj\Debug\Diziler-3.csproj.CoreCompileInputs.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Diziler-3\Diziler-3\obj\Debug\Diziler-3.exe
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Diziler-3\Diziler-3\obj\Debug\Diziler-3.pdb
