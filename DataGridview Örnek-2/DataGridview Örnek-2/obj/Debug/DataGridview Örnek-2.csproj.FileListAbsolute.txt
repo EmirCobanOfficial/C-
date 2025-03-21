@@ -1,0 +1,10 @@
+C:\Users\Emir Çoban\Desktop\ELIFNUR\DataGridview Örnek-2\DataGridview Örnek-2\bin\Debug\DataGridview Örnek-2.exe.config
+C:\Users\Emir Çoban\Desktop\ELIFNUR\DataGridview Örnek-2\DataGridview Örnek-2\bin\Debug\DataGridview Örnek-2.exe
+C:\Users\Emir Çoban\Desktop\ELIFNUR\DataGridview Örnek-2\DataGridview Örnek-2\bin\Debug\DataGridview Örnek-2.pdb
+C:\Users\Emir Çoban\Desktop\ELIFNUR\DataGridview Örnek-2\DataGridview Örnek-2\obj\Debug\DataGridview Örnek-2.csproj.AssemblyReference.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\DataGridview Örnek-2\DataGridview Örnek-2\obj\Debug\DataGridview_Örnek_2.Form1.resources
+C:\Users\Emir Çoban\Desktop\ELIFNUR\DataGridview Örnek-2\DataGridview Örnek-2\obj\Debug\DataGridview_Örnek_2.Properties.Resources.resources
+C:\Users\Emir Çoban\Desktop\ELIFNUR\DataGridview Örnek-2\DataGridview Örnek-2\obj\Debug\DataGridview Örnek-2.csproj.GenerateResource.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\DataGridview Örnek-2\DataGridview Örnek-2\obj\Debug\DataGridview Örnek-2.csproj.CoreCompileInputs.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\DataGridview Örnek-2\DataGridview Örnek-2\obj\Debug\DataGridview Örnek-2.exe
+C:\Users\Emir Çoban\Desktop\ELIFNUR\DataGridview Örnek-2\DataGridview Örnek-2\obj\Debug\DataGridview Örnek-2.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35125.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataGridview Örnek-1", "DataGridview Örnek-1\DataGridview Örnek-1.csproj", "{AB154628-0310-4AC1-ACB6-DA3C2EDB7733}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB154628-0310-4AC1-ACB6-DA3C2EDB7733}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB154628-0310-4AC1-ACB6-DA3C2EDB7733}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB154628-0310-4AC1-ACB6-DA3C2EDB7733}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB154628-0310-4AC1-ACB6-DA3C2EDB7733}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22D28CCB-3EE9-4DB4-9C5E-51828F9E3574}
+	EndGlobalSection
+EndGlobal

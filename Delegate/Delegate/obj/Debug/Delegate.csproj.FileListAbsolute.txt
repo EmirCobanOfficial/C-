@@ -1,0 +1,10 @@
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Delegate\Delegate\bin\Debug\Delegate.exe.config
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Delegate\Delegate\bin\Debug\Delegate.exe
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Delegate\Delegate\bin\Debug\Delegate.pdb
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Delegate\Delegate\obj\Debug\Delegate.csproj.AssemblyReference.cache
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Delegate\Delegate\obj\Debug\Delegate.Form1.resources
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Delegate\Delegate\obj\Debug\Delegate.Properties.Resources.resources
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Delegate\Delegate\obj\Debug\Delegate.csproj.GenerateResource.cache
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Delegate\Delegate\obj\Debug\Delegate.csproj.CoreCompileInputs.cache
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Delegate\Delegate\obj\Debug\Delegate.exe
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Delegate\Delegate\obj\Debug\Delegate.pdb
