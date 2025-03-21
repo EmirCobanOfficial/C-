@@ -1,0 +1,10 @@
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\4islemtahmin\4islemtahmin\bin\Debug\4islemtahmin.exe.config
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\4islemtahmin\4islemtahmin\bin\Debug\4islemtahmin.exe
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\4islemtahmin\4islemtahmin\bin\Debug\4islemtahmin.pdb
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\4islemtahmin\4islemtahmin\obj\Debug\4islemtahmin.csproj.AssemblyReference.cache
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\4islemtahmin\4islemtahmin\obj\Debug\_4islemtahmin.Form1.resources
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\4islemtahmin\4islemtahmin\obj\Debug\_4islemtahmin.Properties.Resources.resources
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\4islemtahmin\4islemtahmin\obj\Debug\4islemtahmin.csproj.GenerateResource.cache
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\4islemtahmin\4islemtahmin\obj\Debug\4islemtahmin.csproj.CoreCompileInputs.cache
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\4islemtahmin\4islemtahmin\obj\Debug\4islemtahmin.exe
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\4islemtahmin\4islemtahmin\obj\Debug\4islemtahmin.pdb

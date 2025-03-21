@@ -1,0 +1,10 @@
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\6 Enum Kullanımı\6 Enum Kullanımı\bin\Debug\6 Enum Kullanımı.exe.config
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\6 Enum Kullanımı\6 Enum Kullanımı\bin\Debug\6 Enum Kullanımı.exe
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\6 Enum Kullanımı\6 Enum Kullanımı\bin\Debug\6 Enum Kullanımı.pdb
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\6 Enum Kullanımı\6 Enum Kullanımı\obj\Debug\6 Enum Kullanımı.csproj.AssemblyReference.cache
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\6 Enum Kullanımı\6 Enum Kullanımı\obj\Debug\_6_Enum_Kullanımı.Form1.resources
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\6 Enum Kullanımı\6 Enum Kullanımı\obj\Debug\_6_Enum_Kullanımı.Properties.Resources.resources
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\6 Enum Kullanımı\6 Enum Kullanımı\obj\Debug\6 Enum Kullanımı.csproj.GenerateResource.cache
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\6 Enum Kullanımı\6 Enum Kullanımı\obj\Debug\6 Enum Kullanımı.csproj.CoreCompileInputs.cache
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\6 Enum Kullanımı\6 Enum Kullanımı\obj\Debug\6 Enum Kullanımı.exe
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\6 Enum Kullanımı\6 Enum Kullanımı\obj\Debug\6 Enum Kullanımı.pdb
