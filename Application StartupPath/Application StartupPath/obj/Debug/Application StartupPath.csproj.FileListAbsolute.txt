@@ -1,0 +1,10 @@
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Application StartupPath\Application StartupPath\bin\Debug\Application StartupPath.exe.config
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Application StartupPath\Application StartupPath\bin\Debug\Application StartupPath.exe
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Application StartupPath\Application StartupPath\bin\Debug\Application StartupPath.pdb
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Application StartupPath\Application StartupPath\obj\Debug\Application StartupPath.csproj.AssemblyReference.cache
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Application StartupPath\Application StartupPath\obj\Debug\Application_StartupPath.Form1.resources
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Application StartupPath\Application StartupPath\obj\Debug\Application_StartupPath.Properties.Resources.resources
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Application StartupPath\Application StartupPath\obj\Debug\Application StartupPath.csproj.GenerateResource.cache
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Application StartupPath\Application StartupPath\obj\Debug\Application StartupPath.csproj.CoreCompileInputs.cache
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Application StartupPath\Application StartupPath\obj\Debug\Application StartupPath.exe
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Application StartupPath\Application StartupPath\obj\Debug\Application StartupPath.pdb

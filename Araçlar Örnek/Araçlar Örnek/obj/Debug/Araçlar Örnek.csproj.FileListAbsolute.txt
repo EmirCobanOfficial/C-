@@ -1,0 +1,10 @@
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Araçlar Örnek\Araçlar Örnek\bin\Debug\Araçlar Örnek.exe.config
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Araçlar Örnek\Araçlar Örnek\bin\Debug\Araçlar Örnek.exe
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Araçlar Örnek\Araçlar Örnek\bin\Debug\Araçlar Örnek.pdb
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Araçlar Örnek\Araçlar Örnek\obj\Debug\Araçlar Örnek.csproj.AssemblyReference.cache
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Araçlar Örnek\Araçlar Örnek\obj\Debug\Araçlar_Örnek.Form1.resources
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Araçlar Örnek\Araçlar Örnek\obj\Debug\Araçlar_Örnek.Properties.Resources.resources
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Araçlar Örnek\Araçlar Örnek\obj\Debug\Araçlar Örnek.csproj.GenerateResource.cache
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Araçlar Örnek\Araçlar Örnek\obj\Debug\Araçlar Örnek.csproj.CoreCompileInputs.cache
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Araçlar Örnek\Araçlar Örnek\obj\Debug\Araçlar Örnek.exe
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Araçlar Örnek\Araçlar Örnek\obj\Debug\Araçlar Örnek.pdb
