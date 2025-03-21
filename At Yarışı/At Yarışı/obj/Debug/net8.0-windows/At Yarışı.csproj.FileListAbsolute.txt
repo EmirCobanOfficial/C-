@@ -1,0 +1,17 @@
+C:\Users\Emir Çoban\Desktop\ELIFNUR\At Yarışı\At Yarışı\bin\Debug\net8.0-windows\At Yarışı.exe
+C:\Users\Emir Çoban\Desktop\ELIFNUR\At Yarışı\At Yarışı\bin\Debug\net8.0-windows\At Yarışı.deps.json
+C:\Users\Emir Çoban\Desktop\ELIFNUR\At Yarışı\At Yarışı\bin\Debug\net8.0-windows\At Yarışı.runtimeconfig.json
+C:\Users\Emir Çoban\Desktop\ELIFNUR\At Yarışı\At Yarışı\bin\Debug\net8.0-windows\At Yarışı.dll
+C:\Users\Emir Çoban\Desktop\ELIFNUR\At Yarışı\At Yarışı\bin\Debug\net8.0-windows\At Yarışı.pdb
+C:\Users\Emir Çoban\Desktop\ELIFNUR\At Yarışı\At Yarışı\obj\Debug\net8.0-windows\At_Yarışı.Form1.resources
+C:\Users\Emir Çoban\Desktop\ELIFNUR\At Yarışı\At Yarışı\obj\Debug\net8.0-windows\At_Yarışı.Properties.Resources.resources
+C:\Users\Emir Çoban\Desktop\ELIFNUR\At Yarışı\At Yarışı\obj\Debug\net8.0-windows\At Yarışı.csproj.GenerateResource.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\At Yarışı\At Yarışı\obj\Debug\net8.0-windows\At Yarışı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emir Çoban\Desktop\ELIFNUR\At Yarışı\At Yarışı\obj\Debug\net8.0-windows\At Yarışı.AssemblyInfoInputs.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\At Yarışı\At Yarışı\obj\Debug\net8.0-windows\At Yarışı.AssemblyInfo.cs
+C:\Users\Emir Çoban\Desktop\ELIFNUR\At Yarışı\At Yarışı\obj\Debug\net8.0-windows\At Yarışı.csproj.CoreCompileInputs.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\At Yarışı\At Yarışı\obj\Debug\net8.0-windows\At Yarışı.dll
+C:\Users\Emir Çoban\Desktop\ELIFNUR\At Yarışı\At Yarışı\obj\Debug\net8.0-windows\refint\At Yarışı.dll
+C:\Users\Emir Çoban\Desktop\ELIFNUR\At Yarışı\At Yarışı\obj\Debug\net8.0-windows\At Yarışı.pdb
+C:\Users\Emir Çoban\Desktop\ELIFNUR\At Yarışı\At Yarışı\obj\Debug\net8.0-windows\At Yarışı.genruntimeconfig.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\At Yarışı\At Yarışı\obj\Debug\net8.0-windows\ref\At Yarışı.dll

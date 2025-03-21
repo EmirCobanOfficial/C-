@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "At Yarışı/1.0.0": {
+        "runtime": {
+          "At Yarışı.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "At Yarışı/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

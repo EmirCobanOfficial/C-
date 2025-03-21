@@ -1,0 +1,10 @@
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Back Ground Worker Örnek\Back Ground Worker Örnek\bin\Debug\Back Ground Worker Örnek.exe.config
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Back Ground Worker Örnek\Back Ground Worker Örnek\bin\Debug\Back Ground Worker Örnek.exe
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Back Ground Worker Örnek\Back Ground Worker Örnek\bin\Debug\Back Ground Worker Örnek.pdb
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Back Ground Worker Örnek\Back Ground Worker Örnek\obj\Debug\Back Ground Worker Örnek.csproj.AssemblyReference.cache
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Back Ground Worker Örnek\Back Ground Worker Örnek\obj\Debug\Back_Ground_Worker_Örnek.Form1.resources
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Back Ground Worker Örnek\Back Ground Worker Örnek\obj\Debug\Back_Ground_Worker_Örnek.Properties.Resources.resources
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Back Ground Worker Örnek\Back Ground Worker Örnek\obj\Debug\Back Ground Worker Örnek.csproj.GenerateResource.cache
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Back Ground Worker Örnek\Back Ground Worker Örnek\obj\Debug\Back Ground Worker Örnek.csproj.CoreCompileInputs.cache
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Back Ground Worker Örnek\Back Ground Worker Örnek\obj\Debug\Back Ground Worker Örnek.exe
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Back Ground Worker Örnek\Back Ground Worker Örnek\obj\Debug\Back Ground Worker Örnek.pdb

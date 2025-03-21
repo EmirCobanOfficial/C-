@@ -1,0 +1,16 @@
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Bilgi Yarışması\Bilgi Yarışması\bin\Debug\net8.0-windows\Bilgi Yarışması.exe
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Bilgi Yarışması\Bilgi Yarışması\bin\Debug\net8.0-windows\Bilgi Yarışması.deps.json
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Bilgi Yarışması\Bilgi Yarışması\bin\Debug\net8.0-windows\Bilgi Yarışması.runtimeconfig.json
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Bilgi Yarışması\Bilgi Yarışması\bin\Debug\net8.0-windows\Bilgi Yarışması.dll
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Bilgi Yarışması\Bilgi Yarışması\bin\Debug\net8.0-windows\Bilgi Yarışması.pdb
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Bilgi Yarışması\Bilgi Yarışması\obj\Debug\net8.0-windows\Bilgi_Yarışması.Form1.resources
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Bilgi Yarışması\Bilgi Yarışması\obj\Debug\net8.0-windows\Bilgi Yarışması.csproj.GenerateResource.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Bilgi Yarışması\Bilgi Yarışması\obj\Debug\net8.0-windows\Bilgi Yarışması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Bilgi Yarışması\Bilgi Yarışması\obj\Debug\net8.0-windows\Bilgi Yarışması.AssemblyInfoInputs.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Bilgi Yarışması\Bilgi Yarışması\obj\Debug\net8.0-windows\Bilgi Yarışması.AssemblyInfo.cs
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Bilgi Yarışması\Bilgi Yarışması\obj\Debug\net8.0-windows\Bilgi Yarışması.csproj.CoreCompileInputs.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Bilgi Yarışması\Bilgi Yarışması\obj\Debug\net8.0-windows\Bilgi Yarışması.dll
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Bilgi Yarışması\Bilgi Yarışması\obj\Debug\net8.0-windows\refint\Bilgi Yarışması.dll
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Bilgi Yarışması\Bilgi Yarışması\obj\Debug\net8.0-windows\Bilgi Yarışması.pdb
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Bilgi Yarışması\Bilgi Yarışması\obj\Debug\net8.0-windows\Bilgi Yarışması.genruntimeconfig.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Bilgi Yarışması\Bilgi Yarışması\obj\Debug\net8.0-windows\ref\Bilgi Yarışması.dll
