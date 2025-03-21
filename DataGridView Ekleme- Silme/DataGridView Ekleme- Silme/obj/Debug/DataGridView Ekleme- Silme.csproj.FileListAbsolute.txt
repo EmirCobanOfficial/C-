@@ -1,0 +1,10 @@
+C:\Users\Emir Çoban\Desktop\ELIFNUR\DataGridView Ekleme- Silme\DataGridView Ekleme- Silme\bin\Debug\DataGridView Ekleme- Silme.exe.config
+C:\Users\Emir Çoban\Desktop\ELIFNUR\DataGridView Ekleme- Silme\DataGridView Ekleme- Silme\bin\Debug\DataGridView Ekleme- Silme.exe
+C:\Users\Emir Çoban\Desktop\ELIFNUR\DataGridView Ekleme- Silme\DataGridView Ekleme- Silme\bin\Debug\DataGridView Ekleme- Silme.pdb
+C:\Users\Emir Çoban\Desktop\ELIFNUR\DataGridView Ekleme- Silme\DataGridView Ekleme- Silme\obj\Debug\DataGridView Ekleme- Silme.csproj.AssemblyReference.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\DataGridView Ekleme- Silme\DataGridView Ekleme- Silme\obj\Debug\DataGridView_Ekleme__Silme.Form1.resources
+C:\Users\Emir Çoban\Desktop\ELIFNUR\DataGridView Ekleme- Silme\DataGridView Ekleme- Silme\obj\Debug\DataGridView_Ekleme__Silme.Properties.Resources.resources
+C:\Users\Emir Çoban\Desktop\ELIFNUR\DataGridView Ekleme- Silme\DataGridView Ekleme- Silme\obj\Debug\DataGridView Ekleme- Silme.csproj.GenerateResource.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\DataGridView Ekleme- Silme\DataGridView Ekleme- Silme\obj\Debug\DataGridView Ekleme- Silme.csproj.CoreCompileInputs.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\DataGridView Ekleme- Silme\DataGridView Ekleme- Silme\obj\Debug\DataGridView Ekleme- Silme.exe
+C:\Users\Emir Çoban\Desktop\ELIFNUR\DataGridView Ekleme- Silme\DataGridView Ekleme- Silme\obj\Debug\DataGridView Ekleme- Silme.pdb

@@ -1,0 +1,10 @@
+C:\Users\Emir Çoban\Desktop\ELIFNUR\data\data\bin\Debug\data.exe.config
+C:\Users\Emir Çoban\Desktop\ELIFNUR\data\data\bin\Debug\data.exe
+C:\Users\Emir Çoban\Desktop\ELIFNUR\data\data\bin\Debug\data.pdb
+C:\Users\Emir Çoban\Desktop\ELIFNUR\data\data\obj\Debug\data.csproj.AssemblyReference.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\data\data\obj\Debug\data.Form1.resources
+C:\Users\Emir Çoban\Desktop\ELIFNUR\data\data\obj\Debug\data.Properties.Resources.resources
+C:\Users\Emir Çoban\Desktop\ELIFNUR\data\data\obj\Debug\data.csproj.GenerateResource.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\data\data\obj\Debug\data.csproj.CoreCompileInputs.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\data\data\obj\Debug\data.exe
+C:\Users\Emir Çoban\Desktop\ELIFNUR\data\data\obj\Debug\data.pdb

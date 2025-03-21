@@ -1,0 +1,10 @@
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\ÇokBiçimlilik\ÇokBiçimlilik\bin\Debug\ÇokBiçimlilik.exe.config
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\ÇokBiçimlilik\ÇokBiçimlilik\bin\Debug\ÇokBiçimlilik.exe
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\ÇokBiçimlilik\ÇokBiçimlilik\bin\Debug\ÇokBiçimlilik.pdb
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\ÇokBiçimlilik\ÇokBiçimlilik\obj\Debug\ÇokBiçimlilik.csproj.AssemblyReference.cache
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\ÇokBiçimlilik\ÇokBiçimlilik\obj\Debug\ÇokBiçimlilik.Form1.resources
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\ÇokBiçimlilik\ÇokBiçimlilik\obj\Debug\ÇokBiçimlilik.Properties.Resources.resources
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\ÇokBiçimlilik\ÇokBiçimlilik\obj\Debug\ÇokBiçimlilik.csproj.GenerateResource.cache
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\ÇokBiçimlilik\ÇokBiçimlilik\obj\Debug\ÇokBiçimlilik.csproj.CoreCompileInputs.cache
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\ÇokBiçimlilik\ÇokBiçimlilik\obj\Debug\ÇokBiçimlilik.exe
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\ÇokBiçimlilik\ÇokBiçimlilik\obj\Debug\ÇokBiçimlilik.pdb
