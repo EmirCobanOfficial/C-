@@ -1,0 +1,7 @@
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\01_TemelKonular\01_TemelKonular\bin\Debug\01_TemelKonular.exe.config
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\01_TemelKonular\01_TemelKonular\bin\Debug\01_TemelKonular.exe
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\01_TemelKonular\01_TemelKonular\bin\Debug\01_TemelKonular.pdb
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\01_TemelKonular\01_TemelKonular\obj\Debug\01_TemelKonular.csproj.AssemblyReference.cache
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\01_TemelKonular\01_TemelKonular\obj\Debug\01_TemelKonular.csproj.CoreCompileInputs.cache
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\01_TemelKonular\01_TemelKonular\obj\Debug\01_TemelKonular.exe
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\01_TemelKonular\01_TemelKonular\obj\Debug\01_TemelKonular.pdb
