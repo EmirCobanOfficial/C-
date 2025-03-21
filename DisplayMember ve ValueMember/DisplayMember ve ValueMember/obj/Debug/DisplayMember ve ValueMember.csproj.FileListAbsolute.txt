@@ -1,0 +1,10 @@
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\DisplayMember ve ValueMember\DisplayMember ve ValueMember\bin\Debug\DisplayMember ve ValueMember.exe.config
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\DisplayMember ve ValueMember\DisplayMember ve ValueMember\bin\Debug\DisplayMember ve ValueMember.exe
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\DisplayMember ve ValueMember\DisplayMember ve ValueMember\bin\Debug\DisplayMember ve ValueMember.pdb
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\DisplayMember ve ValueMember\DisplayMember ve ValueMember\obj\Debug\DisplayMember ve ValueMember.csproj.AssemblyReference.cache
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\DisplayMember ve ValueMember\DisplayMember ve ValueMember\obj\Debug\DisplayMember_ve_ValueMember.Form1.resources
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\DisplayMember ve ValueMember\DisplayMember ve ValueMember\obj\Debug\DisplayMember_ve_ValueMember.Properties.Resources.resources
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\DisplayMember ve ValueMember\DisplayMember ve ValueMember\obj\Debug\DisplayMember ve ValueMember.csproj.GenerateResource.cache
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\DisplayMember ve ValueMember\DisplayMember ve ValueMember\obj\Debug\DisplayMember ve ValueMember.csproj.CoreCompileInputs.cache
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\DisplayMember ve ValueMember\DisplayMember ve ValueMember\obj\Debug\DisplayMember ve ValueMember.exe
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\DisplayMember ve ValueMember\DisplayMember ve ValueMember\obj\Debug\DisplayMember ve ValueMember.pdb
