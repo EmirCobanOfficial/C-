@@ -1,0 +1,11 @@
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Captcha\Captcha\bin\Debug\Captcha.exe.config
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Captcha\Captcha\bin\Debug\Captcha.exe
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Captcha\Captcha\bin\Debug\Captcha.pdb
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Captcha\Captcha\obj\Debug\Captcha.csproj.AssemblyReference.cache
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Captcha\Captcha\obj\Debug\Captcha.Form1.resources
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Captcha\Captcha\obj\Debug\Captcha.Properties.Resources.resources
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Captcha\Captcha\obj\Debug\Captcha.csproj.GenerateResource.cache
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Captcha\Captcha\obj\Debug\Captcha.csproj.CoreCompileInputs.cache
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Captcha\Captcha\obj\Debug\Captcha.exe
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Captcha\Captcha\obj\Debug\Captcha.pdb
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Captcha\Captcha\obj\Debug\Captcha.Form2.resources

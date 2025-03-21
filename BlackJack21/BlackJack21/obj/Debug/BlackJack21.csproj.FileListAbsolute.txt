@@ -1,0 +1,10 @@
+C:\Users\Emir Çoban\Desktop\ELIFNUR\BlackJack21\BlackJack21\bin\Debug\BlackJack21.exe.config
+C:\Users\Emir Çoban\Desktop\ELIFNUR\BlackJack21\BlackJack21\bin\Debug\BlackJack21.exe
+C:\Users\Emir Çoban\Desktop\ELIFNUR\BlackJack21\BlackJack21\bin\Debug\BlackJack21.pdb
+C:\Users\Emir Çoban\Desktop\ELIFNUR\BlackJack21\BlackJack21\obj\Debug\BlackJack21.csproj.AssemblyReference.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\BlackJack21\BlackJack21\obj\Debug\BlackJack21.Form1.resources
+C:\Users\Emir Çoban\Desktop\ELIFNUR\BlackJack21\BlackJack21\obj\Debug\BlackJack21.Properties.Resources.resources
+C:\Users\Emir Çoban\Desktop\ELIFNUR\BlackJack21\BlackJack21\obj\Debug\BlackJack21.csproj.GenerateResource.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\BlackJack21\BlackJack21\obj\Debug\BlackJack21.csproj.CoreCompileInputs.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\BlackJack21\BlackJack21\obj\Debug\BlackJack21.exe
+C:\Users\Emir Çoban\Desktop\ELIFNUR\BlackJack21\BlackJack21\obj\Debug\BlackJack21.pdb
