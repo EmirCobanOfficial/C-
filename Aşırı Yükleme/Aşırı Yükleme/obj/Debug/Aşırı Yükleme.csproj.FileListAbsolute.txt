@@ -1,0 +1,10 @@
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Aşırı Yükleme\Aşırı Yükleme\bin\Debug\Aşırı Yükleme.exe.config
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Aşırı Yükleme\Aşırı Yükleme\bin\Debug\Aşırı Yükleme.exe
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Aşırı Yükleme\Aşırı Yükleme\bin\Debug\Aşırı Yükleme.pdb
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Aşırı Yükleme\Aşırı Yükleme\obj\Debug\Aşırı Yükleme.csproj.AssemblyReference.cache
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Aşırı Yükleme\Aşırı Yükleme\obj\Debug\Aşırı_Yükleme.Form1.resources
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Aşırı Yükleme\Aşırı Yükleme\obj\Debug\Aşırı_Yükleme.Properties.Resources.resources
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Aşırı Yükleme\Aşırı Yükleme\obj\Debug\Aşırı Yükleme.csproj.GenerateResource.cache
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Aşırı Yükleme\Aşırı Yükleme\obj\Debug\Aşırı Yükleme.csproj.CoreCompileInputs.cache
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Aşırı Yükleme\Aşırı Yükleme\obj\Debug\Aşırı Yükleme.exe
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\Aşırı Yükleme\Aşırı Yükleme\obj\Debug\Aşırı Yükleme.pdb

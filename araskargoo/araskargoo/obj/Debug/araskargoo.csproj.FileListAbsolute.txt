@@ -1,0 +1,10 @@
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\araskargoo\araskargoo\bin\Debug\araskargoo.exe.config
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\araskargoo\araskargoo\bin\Debug\araskargoo.exe
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\araskargoo\araskargoo\bin\Debug\araskargoo.pdb
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\araskargoo\araskargoo\obj\Debug\araskargoo.csproj.AssemblyReference.cache
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\araskargoo\araskargoo\obj\Debug\araskargoo.Form1.resources
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\araskargoo\araskargoo\obj\Debug\araskargoo.Properties.Resources.resources
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\araskargoo\araskargoo\obj\Debug\araskargoo.csproj.GenerateResource.cache
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\araskargoo\araskargoo\obj\Debug\araskargoo.csproj.CoreCompileInputs.cache
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\araskargoo\araskargoo\obj\Debug\araskargoo.exe
+C:\Users\Emir Çoban\Desktop\projeler\ELIFNUR\araskargoo\araskargoo\obj\Debug\araskargoo.pdb
