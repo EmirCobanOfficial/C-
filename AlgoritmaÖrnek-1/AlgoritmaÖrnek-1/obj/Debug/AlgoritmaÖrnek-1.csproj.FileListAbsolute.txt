@@ -1,0 +1,10 @@
+C:\Users\Emir Çoban\Desktop\ELIFNUR\AlgoritmaÖrnek-1\AlgoritmaÖrnek-1\bin\Debug\AlgoritmaÖrnek-1.exe.config
+C:\Users\Emir Çoban\Desktop\ELIFNUR\AlgoritmaÖrnek-1\AlgoritmaÖrnek-1\bin\Debug\AlgoritmaÖrnek-1.exe
+C:\Users\Emir Çoban\Desktop\ELIFNUR\AlgoritmaÖrnek-1\AlgoritmaÖrnek-1\bin\Debug\AlgoritmaÖrnek-1.pdb
+C:\Users\Emir Çoban\Desktop\ELIFNUR\AlgoritmaÖrnek-1\AlgoritmaÖrnek-1\obj\Debug\AlgoritmaÖrnek-1.csproj.AssemblyReference.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\AlgoritmaÖrnek-1\AlgoritmaÖrnek-1\obj\Debug\AlgoritmaÖrnek_1.Form1.resources
+C:\Users\Emir Çoban\Desktop\ELIFNUR\AlgoritmaÖrnek-1\AlgoritmaÖrnek-1\obj\Debug\AlgoritmaÖrnek_1.Properties.Resources.resources
+C:\Users\Emir Çoban\Desktop\ELIFNUR\AlgoritmaÖrnek-1\AlgoritmaÖrnek-1\obj\Debug\AlgoritmaÖrnek-1.csproj.GenerateResource.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\AlgoritmaÖrnek-1\AlgoritmaÖrnek-1\obj\Debug\AlgoritmaÖrnek-1.csproj.CoreCompileInputs.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\AlgoritmaÖrnek-1\AlgoritmaÖrnek-1\obj\Debug\AlgoritmaÖrnek-1.exe
+C:\Users\Emir Çoban\Desktop\ELIFNUR\AlgoritmaÖrnek-1\AlgoritmaÖrnek-1\obj\Debug\AlgoritmaÖrnek-1.pdb
