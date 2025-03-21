@@ -1,0 +1,32 @@
+C:\Users\Emir Çoban\source\repos\Faktoryel Örnek\Faktoryel Örnek\bin\Debug\net8.0-windows\Faktoryel Örnek.exe
+C:\Users\Emir Çoban\source\repos\Faktoryel Örnek\Faktoryel Örnek\bin\Debug\net8.0-windows\Faktoryel Örnek.deps.json
+C:\Users\Emir Çoban\source\repos\Faktoryel Örnek\Faktoryel Örnek\bin\Debug\net8.0-windows\Faktoryel Örnek.runtimeconfig.json
+C:\Users\Emir Çoban\source\repos\Faktoryel Örnek\Faktoryel Örnek\bin\Debug\net8.0-windows\Faktoryel Örnek.dll
+C:\Users\Emir Çoban\source\repos\Faktoryel Örnek\Faktoryel Örnek\bin\Debug\net8.0-windows\Faktoryel Örnek.pdb
+C:\Users\Emir Çoban\source\repos\Faktoryel Örnek\Faktoryel Örnek\obj\Debug\net8.0-windows\Faktoryel_Örnek.Form1.resources
+C:\Users\Emir Çoban\source\repos\Faktoryel Örnek\Faktoryel Örnek\obj\Debug\net8.0-windows\Faktoryel Örnek.csproj.GenerateResource.cache
+C:\Users\Emir Çoban\source\repos\Faktoryel Örnek\Faktoryel Örnek\obj\Debug\net8.0-windows\Faktoryel Örnek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emir Çoban\source\repos\Faktoryel Örnek\Faktoryel Örnek\obj\Debug\net8.0-windows\Faktoryel Örnek.AssemblyInfoInputs.cache
+C:\Users\Emir Çoban\source\repos\Faktoryel Örnek\Faktoryel Örnek\obj\Debug\net8.0-windows\Faktoryel Örnek.AssemblyInfo.cs
+C:\Users\Emir Çoban\source\repos\Faktoryel Örnek\Faktoryel Örnek\obj\Debug\net8.0-windows\Faktoryel Örnek.csproj.CoreCompileInputs.cache
+C:\Users\Emir Çoban\source\repos\Faktoryel Örnek\Faktoryel Örnek\obj\Debug\net8.0-windows\Faktoryel Örnek.dll
+C:\Users\Emir Çoban\source\repos\Faktoryel Örnek\Faktoryel Örnek\obj\Debug\net8.0-windows\refint\Faktoryel Örnek.dll
+C:\Users\Emir Çoban\source\repos\Faktoryel Örnek\Faktoryel Örnek\obj\Debug\net8.0-windows\Faktoryel Örnek.pdb
+C:\Users\Emir Çoban\source\repos\Faktoryel Örnek\Faktoryel Örnek\obj\Debug\net8.0-windows\Faktoryel Örnek.genruntimeconfig.cache
+C:\Users\Emir Çoban\source\repos\Faktoryel Örnek\Faktoryel Örnek\obj\Debug\net8.0-windows\ref\Faktoryel Örnek.dll
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Faktoryel Örnek\Faktoryel Örnek\bin\Debug\net8.0-windows\Faktoryel Örnek.exe
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Faktoryel Örnek\Faktoryel Örnek\bin\Debug\net8.0-windows\Faktoryel Örnek.deps.json
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Faktoryel Örnek\Faktoryel Örnek\bin\Debug\net8.0-windows\Faktoryel Örnek.runtimeconfig.json
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Faktoryel Örnek\Faktoryel Örnek\bin\Debug\net8.0-windows\Faktoryel Örnek.dll
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Faktoryel Örnek\Faktoryel Örnek\bin\Debug\net8.0-windows\Faktoryel Örnek.pdb
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Faktoryel Örnek\Faktoryel Örnek\obj\Debug\net8.0-windows\Faktoryel_Örnek.Form1.resources
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Faktoryel Örnek\Faktoryel Örnek\obj\Debug\net8.0-windows\Faktoryel Örnek.csproj.GenerateResource.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Faktoryel Örnek\Faktoryel Örnek\obj\Debug\net8.0-windows\Faktoryel Örnek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Faktoryel Örnek\Faktoryel Örnek\obj\Debug\net8.0-windows\Faktoryel Örnek.AssemblyInfoInputs.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Faktoryel Örnek\Faktoryel Örnek\obj\Debug\net8.0-windows\Faktoryel Örnek.AssemblyInfo.cs
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Faktoryel Örnek\Faktoryel Örnek\obj\Debug\net8.0-windows\Faktoryel Örnek.csproj.CoreCompileInputs.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Faktoryel Örnek\Faktoryel Örnek\obj\Debug\net8.0-windows\Faktoryel Örnek.dll
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Faktoryel Örnek\Faktoryel Örnek\obj\Debug\net8.0-windows\refint\Faktoryel Örnek.dll
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Faktoryel Örnek\Faktoryel Örnek\obj\Debug\net8.0-windows\Faktoryel Örnek.pdb
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Faktoryel Örnek\Faktoryel Örnek\obj\Debug\net8.0-windows\Faktoryel Örnek.genruntimeconfig.cache
+C:\Users\Emir Çoban\Desktop\ELIFNUR\Faktoryel Örnek\Faktoryel Örnek\obj\Debug\net8.0-windows\ref\Faktoryel Örnek.dll
